@@ -148,7 +148,7 @@ git stash pop
 
 ## Merging
 
-```
+``` 
 git checkout dev
 git merge main
 ```
